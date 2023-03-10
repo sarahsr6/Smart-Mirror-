@@ -64,6 +64,7 @@ let config = {
 				],
 			},
 		},
+		/*
 		{
 			module: "compliments",
 			//position: "lower_third",
@@ -102,6 +103,7 @@ let config = {
 				},
 			},
 		},
+		*/
 		{
 			module: "weather",
 		 	position: "top_right",
